@@ -1,5 +1,3 @@
 nginx
 kasmweb/nginx:1.25.3
-docker://google/deepvariant
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+google/deepvariant:latest
